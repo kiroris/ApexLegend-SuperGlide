@@ -6,7 +6,7 @@ Welcome to the SuperGlide Setup Guide for Apex Legend! Improve your game by easi
 ## Installation
 Follow these simple steps to set up SuperGlide in Apex Legend:
 
-1. Find the installation directory of Apex Legend. It is usually found on Steam/steamapps/common/Apex Legend.
+1. Find the installation directory of Apex Legend. It is usually found on Steam/steamapps/common/Apex Legend/cfg.
 
 2. Open the game launch options by adding the following line:
     ```
